@@ -1,0 +1,36 @@
+html {
+	margin: 0;
+}
+
+body {
+	background: $yellow;
+}
+
+a {
+	color: $blue;
+	text-decoration: none;
+
+	&:hover, &:focus {
+		color: darken($blue, 10%);
+	}
+}
+
+.btn {
+	@include button(flat, $blue);
+	padding: 6px 12px;
+	color: $yellow-light;
+
+	&:hover {
+		background: $blue-light;
+		color: $yellow-light;
+	}
+
+	&.large {
+		padding: 10px 30px;
+	}
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Lobster', cursive;
+	color: $blue;
+}

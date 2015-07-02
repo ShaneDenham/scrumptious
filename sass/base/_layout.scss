@@ -1,0 +1,14 @@
+section {
+	padding-top: 3em;
+	padding-bottom: 3em;
+	border-top: $border-yellow;
+
+	&.striped {
+		background: url('images/backgrounds/nav_bg.png');
+		border-top: none;
+	}
+
+	.container {
+		@include outer-container;
+	}
+}
