@@ -1,0 +1,1467 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"yell",
+				"yellow-light"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"gray-darke",
+				"gray-darkest"
+			],
+			[
+				"gra",
+				"gray"
+			],
+			[
+				"clo",
+				"color"
+			],
+			[
+				"blue-l",
+				"blue-light"
+			],
+			[
+				"bl",
+				"blue"
+			],
+			[
+				"y",
+				"yellow"
+			],
+			[
+				"yellow",
+				"yellow-light"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"CO",
+				"color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"vi",
+				"visible"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"spa",
+				"span-columns"
+			],
+			[
+				"ser",
+				"service"
+			],
+			[
+				"servi",
+				"services"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"image",
+				"images"
+			],
+			[
+				"ur",
+				"url()"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"filter_block",
+				"filter_allow_block_lists"
+			],
+			[
+				"right",
+				"right"
+			],
+			[
+				"text-",
+				"text-indent"
+			],
+			[
+				"me",
+				"media"
+			],
+			[
+				"suc",
+				"success"
+			],
+			[
+				"all",
+				"allow_list"
+			],
+			[
+				"block",
+				"block_list"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"multi",
+				"multifield"
+			],
+			[
+				"med",
+				"medium"
+			],
+			[
+				"e",
+				"extend"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"whi",
+				"white-custom-panel"
+			],
+			[
+				"field",
+				"fieldsets"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"pr",
+				"price"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"larg",
+				"large-up"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"com",
+				"columns"
+			],
+			[
+				"but",
+				"button"
+			],
+			[
+				"bu",
+				"button"
+			],
+			[
+				"re",
+				"responsive"
+			],
+			[
+				"report",
+				"report_type"
+			],
+			[
+				"bor",
+				"bottom_border"
+			],
+			[
+				"exten",
+				"extend"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"colu",
+				"columns"
+			],
+			[
+				"load",
+				"loader_label"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"ete",
+				"extend"
+			],
+			[
+				"exte",
+				"extend"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"form",
+				"form_field"
+			],
+			[
+				"ext",
+				"extend"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"et",
+				"extend"
+			],
+			[
+				"ligh",
+				"lighten"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"large",
+				"large-only"
+			],
+			[
+				"cle",
+				"clear"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"medi",
+				"medium"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"can",
+				"canvas_subnav"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"na",
+				"nav_icon"
+			],
+			[
+				"canva",
+				"canvas_subnav"
+			],
+			[
+				"canv",
+				"canvas_subnav"
+			],
+			[
+				"subna",
+				"subnav_template"
+			],
+			[
+				"token",
+				"tokens"
+			],
+			[
+				"nav",
+				"navigation"
+			],
+			[
+				"icon",
+				"icon_name"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"asser",
+				"assertFieldValue"
+			],
+			[
+				"asse",
+				"assertContains"
+			],
+			[
+				"time",
+				"timezone"
+			],
+			[
+				"tim",
+				"time_zone_adjustment"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"d",
+				"default"
+			],
+			[
+				"Ti",
+				"TimeControl"
+			],
+			[
+				"Fo",
+				"ForeignKey"
+			],
+			[
+				"cl",
+				"client"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"survey",
+				"survey_link"
+			],
+			[
+				"is",
+				"is_group"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"par",
+				"is_partner_only"
+			],
+			[
+				"fo",
+				"forms"
+			],
+			[
+				"lke",
+				"likes"
+			],
+			[
+				"CA",
+				"Category"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"cate",
+				"category_name"
+			],
+			[
+				"category",
+				"category"
+			],
+			[
+				"ren",
+				"render_to_response"
+			],
+			[
+				"Re",
+				"RequestContext"
+			],
+			[
+				"part",
+				"partner_upgrade"
+			],
+			[
+				"is_",
+				"is_partner_only"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"username",
+				"username_message"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 3880,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "footer.php",
+			"settings":
+			{
+				"buffer_size": 1297,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "page.php",
+			"settings":
+			{
+				"buffer_size": 2400,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/style.scss",
+			"settings":
+			{
+				"buffer_size": 462,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/sections/_footer.scss",
+			"settings":
+			{
+				"buffer_size": 1582,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/base/_layout.scss",
+			"settings":
+			{
+				"buffer_size": 216,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/script.js",
+			"settings":
+			{
+				"buffer_size": 1386,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/base/_base.scss",
+			"settings":
+			{
+				"buffer_size": 415,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/sections/_nav.scss",
+			"settings":
+			{
+				"buffer_size": 5426,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "/* Scrumptious Brand Colors */\n$yellow: #fff397;\n$yellow-light: #fffac8;\n$yellow-dark: darken($yellow, 15%);\n$blue: #26b8cd;\n$blue-light: lighten($blue, 10%);\n$blue-lighter: lighten($blue, 15%);\n$red: #dd4b4d;\n\n\n/* Gray Scale */\n$gray: #888888;\n$gray-light: lighten($gray, 10%);\n$gray-lighter: lighten($gray, 20%);\n$gray-lightest: lighten($gray, 30%);\n$gray-dark: darken($gray, 10%);\n$gray-darker: darken($gray, 20%);\n$gray-darkest: darken($gray, 30%);\n\n\n/* Classes */\n.yellow { color: $yellow; }\n.yellow-light {	color: $yellow-light; }\n.yellow-dark { color: $yellow-dark; }\n.blue { color: $blue; }\n.blue-light { color: $blue-light; }\n.blue-lighter { color: $blue-lighter; }\n.red { color: $red; }\n.gray { color: $gray; }\n.gray-light { color: $gray-light; }\n.gray-lighter { color: $gray-lighter; }\n.gray-lightest { color: $gray-lightest; }\n.gray-dark { color: $gray-dark; }\n.gray-darker { color: $gray-darker; }\n.gray-darkest { color: $gray-darkest; }",
+			"file": "sass/presentation/_colors.scss",
+			"file_size": 953,
+			"file_write_time": 1432519952000000,
+			"settings":
+			{
+				"buffer_size": 950,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/presentation/_borders.scss",
+			"settings":
+			{
+				"buffer_size": 78,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/pages/_homepage.scss",
+			"settings":
+			{
+				"buffer_size": 5854,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "header.php",
+			"settings":
+			{
+				"buffer_size": 2639,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"git:",
+				"Github: Repository"
+			],
+			[
+				"git",
+				"Github: Open File"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 462.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/shanedenham/vagrant-local/www/scrumptious/htdocs/wp-content/themes/scrumptious/header.php",
+		"/Users/shanedenham/vagrant-local/www/scrumptious/htdocs/wp-content/themes/scrumptious/style.css",
+		"/Users/shanedenham/vagrant-local/www/scrumptious/htdocs/wp-content/themes/scrumptious/sass/pages/_homepage.scss",
+		"/Users/shanedenham/vagrant-local/www/scrumptious/htdocs/wp-content/themes/scrumptious/sass/presenation/_colors.scss",
+		"/Users/shanedenham/vagrant-local/www/scrumptious/htdocs/wp-content/themes/scrumptious/sass/modules/_nav.scss",
+		"/Users/shanedenham/vagrant-local/www/scrumptious/htdocs/wp-content/themes/scrumptious/config.rb",
+		"/Users/shanedenham/vagrant-local/www/scrumptious/htdocs/wp-content/themes/scrumptious/sass/style.scss",
+		"/Users/shanedenham/cupcake/templates_responsive/login.html",
+		"/Users/shanedenham/CDN/global/scss/global/modules/_buttons.scss",
+		"/Users/shanedenham/CDN/global/scss/myaccount/structure/_content.scss",
+		"/Users/shanedenham/CDN/global/js/build/myaccount.js",
+		"/Users/shanedenham/CDN/global/scss/myaccount/pages/_filter_settings.scss",
+		"/Users/shanedenham/CDN/global/js/build/myaccount_deferred_functions.js",
+		"/Users/shanedenham/CDN/global/js/myaccount/filter_settings.js",
+		"/Users/shanedenham/CDN/global/js/myaccount/dbl.js",
+		"/Users/shanedenham/CDN/global/js/myaccount/confirmation_modals.js",
+		"/Users/shanedenham/CDN/global/js/myaccount/billing_info.js",
+		"/Users/shanedenham/CDN/global/js/myaccount/billing_history.js",
+		"/Users/shanedenham/CDN/global/scss/myaccount/pages/_filter_block_allow_list.scss",
+		"/Users/shanedenham/CDN/global/scss/myaccount/structure/_panels.scss",
+		"/Users/shanedenham/CDN/global/scss/myaccount/pages/_partner_upgrade.scss",
+		"/Users/shanedenham/cupcake/partner_upgrade/views.py",
+		"/Users/shanedenham/cupcake/templates_responsive/partner_upgrade/includes/partner_only_new_billing_breakdown.html",
+		"/Users/shanedenham/CDN/global/js/myaccount/partner_upgrade.js",
+		"/Users/shanedenham/CDN/global/grunt/concat.js",
+		"/Users/shanedenham/cupcake/templates_responsive/partner_upgrade/complete.html",
+		"/Users/shanedenham/cupcake/templates_responsive/partner_upgrade/forms/billing_field.html",
+		"/Users/shanedenham/cupcake/templates_responsive/partner_upgrade/forms/billing_info.html",
+		"/Users/shanedenham/cupcake/templates_responsive/partner_upgrade/billing.html",
+		"/Users/shanedenham/cupcake/templates/filter/includes/allow_block_item.html",
+		"/Users/shanedenham/cupcake/templates_responsive/filter/allow_block_lists.html",
+		"/Users/shanedenham/cupcake/templates/filter/includes/allowblock_list.html",
+		"/Users/shanedenham/cupcake/templates/filter/allow_block_lists.html",
+		"/Users/shanedenham/cupcake/templates/filter/blocked_times.html",
+		"/Users/shanedenham/CDN/global/js/global/ce/form_validators.js",
+		"/Users/shanedenham/CDN/global/js/myaccount/form_validation.js",
+		"/Users/shanedenham/CDN/global/js/myaccount/forms/guardian_request.js",
+		"/Users/shanedenham/CDN/global/scss/myaccount/structure/_forms.scss",
+		"/Users/shanedenham/CDN/global/scss/myaccount/_shame.scss",
+		"/Users/shanedenham/CDN/membercenter/scss/layout/_header.scss",
+		"/Users/shanedenham/cupcake/templates_responsive/billing/forms/billing_field.html",
+		"/Users/shanedenham/cupcake/templates_responsive/billing/forms/billing_info.html",
+		"/Users/shanedenham/CDN/global/js/myaccount/myaccount_deferred_functions.js",
+		"/Users/shanedenham/CDN/global/scss/myaccount/pages/_billing.scss",
+		"/Users/shanedenham/CDN/global/scss/myaccount/pages/_billing_info.scss",
+		"/Users/shanedenham/CDN/global/scss/myaccount/structure/_navigation.scss",
+		"/Users/shanedenham/CDN/global/scss/global/presentation/_borders.scss",
+		"/Users/shanedenham/CDN/global/scss/myaccount/pages/_uninstall.scss",
+		"/Users/shanedenham/cupcake/templates_responsive/billing/info.html",
+		"/Users/shanedenham/CDN/global/scss/myaccount/pages/_dashboard.scss",
+		"/Users/shanedenham/cupcake/billing/models.py",
+		"/Users/shanedenham/cupcake/partner_upgrade/decorators.py",
+		"/Users/shanedenham/CDN/membercenter/js/script.js",
+		"/Users/shanedenham/cupcake/templates_responsive/partner_upgrade/start.html",
+		"/Users/shanedenham/CDN/global/js/myaccount/partner_upgrade_complete_video.js",
+		"/Users/shanedenham/CDN/global/js/myaccount/report_generation_form.js",
+		"/Users/shanedenham/cupcake/billing/views.py",
+		"/Users/shanedenham/cupcake/templates_responsive/billing/includes/billing_info.html",
+		"/Users/shanedenham/cupcake/account/models.py",
+		"/Users/shanedenham/cupcake/templates_responsive/billing/includes/billing_breakdown.html",
+		"/Users/shanedenham/cupcake/templates_responsive/billing/details.html",
+		"/Users/shanedenham/cupcake/templates_responsive/users/landing.html",
+		"/Users/shanedenham/CDN/global/js/myaccount/media_queries.js",
+		"/Users/shanedenham/cupcake/partner_upgrade/urls.py",
+		"/Users/shanedenham/CDN/global/scss/global/modules/_responsive_tables.scss",
+		"/Users/shanedenham/CDN/global/scss/myaccount/pages/_billing_history.scss",
+		"/Users/shanedenham/cupcake/templates/partner_upgrade/complete.html",
+		"/Users/shanedenham/cupcake/templates_responsive/form_utils/better_form.html",
+		"/Users/shanedenham/cupcake/templates_responsive/users/user_list.html",
+		"/Users/shanedenham/cupcake/templates_responsive/partners/partners.html",
+		"/Users/shanedenham/cupcake/templates_responsive/partners/includes/partners_1.html",
+		"/Users/shanedenham/cupcake/billing/forms.py",
+		"/Users/shanedenham/CDN/global/scss/global/presentation/_colors.scss",
+		"/Users/shanedenham/cupcake/form_management/forms.py",
+		"/Users/shanedenham/CDN/global/scss/myaccount/pages/_reports.scss",
+		"/Users/shanedenham/CDN/global/scss/myaccount/pages/_downloads.scss",
+		"/Users/shanedenham/cupcake/partners/forms.py",
+		"/Users/shanedenham/cupcake/partner_upgrade/models.py",
+		"/Users/shanedenham/CDN/global/node_modules/node-sass/test/fixtures/spec/benchmarks/vanilla_css_huge.scss",
+		"/Users/shanedenham/cupcake/templates/partner_upgrade/includes/partner_only_new_billing_breakdown.html",
+		"/Users/shanedenham/cupcake/templates/partner_upgrade/billing.html",
+		"/Users/shanedenham/CDN/global/scss/signup/structure/_plans.scss",
+		"/Users/shanedenham/cupcake/templates_responsive/base_wrapper.html",
+		"/Users/shanedenham/cupcake/templates_responsive/includes/header.html",
+		"/Users/shanedenham/CDN/global/scss/global/presentation/_typography.scss",
+		"/Users/shanedenham/CDN/global/scss/global/modules/_navigation.scss",
+		"/Users/shanedenham/CDN/global/scss/signup/structure/forms/_get_started.scss",
+		"/Users/shanedenham/CDN/global/scss/signup/structure/forms/_get_started_split_test.scss",
+		"/Users/shanedenham/casper/templates/get_started_a.html",
+		"/Users/shanedenham/casper/templates/get_started.html",
+		"/Users/shanedenham/cupcake/templates/partner_upgrade/start.html",
+		"/Users/shanedenham/cupcake/downloads/urls.py",
+		"/Users/shanedenham/cupcake/downloads/views.py",
+		"/Users/shanedenham/cupcake/templates/communication/tags/customer_support_infobox.html",
+		"/Users/shanedenham/cupcake/templates_responsive/downloads/uninstall.html",
+		"/Users/shanedenham/cupcake/templates_responsive/downloads/uninstall_code_form.html",
+		"/Users/shanedenham/CDN/global/scss/myaccount/structure/_notifications.scss",
+		"/Users/shanedenham/cupcake/communication/templatetags/contact_info.py",
+		"/Users/shanedenham/cupcake/downloads/forms.py",
+		"/Users/shanedenham/cupcake/communication/templatetags/notifications.py",
+		"/Users/shanedenham/cupcake/templates_responsive/communication/tags/notifications.html",
+		"/Users/shanedenham/cupcake/templates_responsive/communication/messages.html",
+		"/Users/shanedenham/cupcake/templates/communication/tags/notification.html",
+		"/Users/shanedenham/cupcake/communication/views.py",
+		"/Users/shanedenham/cupcake/templates_responsive/base.html",
+		"/Users/shanedenham/cupcake/communication/info.py",
+		"/Users/shanedenham/cupcake/billing/tests/test_views.py",
+		"/Users/shanedenham/cupcake/billing/tests/test_models.py",
+		"/Users/shanedenham/cupcake/communication/warnings.py",
+		"/Users/shanedenham/cupcake/communication/pages_urls.py",
+		"/Users/shanedenham/cupcake/communication/messages_urls.py",
+		"/Users/shanedenham/cupcake/cupcake/urls.py",
+		"/Users/shanedenham/cupcake/templates_responsive/downloads/productdownload_list.html",
+		"/Users/shanedenham/cupcake/templates/downloads/productdownload_list.html",
+		"/Users/shanedenham/cupcake/downloads/models.py",
+		"/Users/shanedenham/cupcake/templates_responsive/reports/generate_report.html",
+		"/Users/shanedenham/cupcake/account/templatetags/util_tags.py",
+		"/Users/shanedenham/cupcake/internal/utils.py",
+		"/Users/shanedenham/cupcake/database_utils.py",
+		"/Users/shanedenham/cupcake/downloads/templatetags/downloads.py",
+		"/Users/shanedenham/CDN/global/scss/global/mixins/_buttons.scss",
+		"/Users/shanedenham/CDN/global/bower_components/foundation/scss/foundation/components/_buttons.scss",
+		"/Users/shanedenham/CDN/global/scss/myaccount/modules/_buttons.scss",
+		"/Users/shanedenham/CDN/global/scss/myaccount/modules/_loader.scss",
+		"/Users/shanedenham/cupcake/templates_responsive/navigation/tags/dashboard_item.html",
+		"/Users/shanedenham/cupcake/testing_decorators.py",
+		"/Users/shanedenham/cupcake/reports/tests/test_views.py",
+		"/Users/shanedenham/cupcake/cupcake/settings/local_settings.py"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"*.scss",
+			"*.js",
+			"",
+			"*.scss",
+			"*.js",
+			"*.py",
+			"*.scss",
+			"*.js",
+			"",
+			"*",
+			"*.scss",
+			"*.html",
+			"*.js",
+			"*",
+			"*.scss",
+			"*.html",
+			"*.scss",
+			"*.html, *.scss",
+			"*.html",
+			"*.py",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.py",
+			"*.scss",
+			"*",
+			"*.py",
+			"*.html",
+			"*.py",
+			"*.scss",
+			"*.py",
+			"",
+			"*.py",
+			"",
+			"*.py",
+			"*.html",
+			"*.py",
+			"*.html",
+			"*.py",
+			"/Users/shanedenham/cupcake/templates/",
+			"/Users/shanedenham/cupcake/templates/*.html",
+			"templates/*.html",
+			"*.html",
+			"*.py",
+			"*.html",
+			"*.html or *.py",
+			"*.html & *.py",
+			"*.scss",
+			"*.html",
+			".html",
+			"",
+			"*.scss",
+			".scss",
+			"/scss/",
+			"",
+			".scss",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"margin-top:",
+			"margin-top: 32px",
+			"$base-link-color",
+			"$action-color",
+			"$dark-gray",
+			"style",
+			"outer-container",
+			"$parallax-background",
+			"$parallax-window",
+			"parallax-window",
+			"js-parallax",
+			"id=\"js-parallax",
+			"#js-parallax",
+			"#js-parallax-window",
+			"card",
+			"cards",
+			"card",
+			"filterAllowBlockSelectAll",
+			"$('.select-all')",
+			"padding: 0 0.5rem;",
+			"BillingChange",
+			"class billing_date",
+			"def billing_date",
+			"partner_upgrade_complete_video",
+			"billing_form ",
+			"billing_form",
+			"visually",
+			".family-account",
+			"BillingHistoryTests",
+			".download",
+			"download_help",
+			"<a href=\"http://www.covenanteyes.com/support-articles/how-do-i-download-and-install-covenant-eyes-using-the-beta-member-center/?_ga=1.47954983.1475930783.1413917527\" target=\"_blank\">How do I download and install Covenant Eyes?</a>",
+			"How do I download and install Covenant Eyes?",
+			"download_help",
+			".iphone-download",
+			"iphone-download",
+			"panel_form",
+			"mixin button-base",
+			"mixin ce-button",
+			"ce-button {",
+			".panel_form {",
+			"$body-font-family",
+			"ie9",
+			"class=\"ie9",
+			"def get_accountability_report(",
+			"function ga(",
+			".left {",
+			"select {",
+			"responsive_tables",
+			"set_sensitivity_level",
+			"  ",
+			"ballcolor",
+			"contener_mixte",
+			"square_containter",
+			"fieldset {",
+			".fieldset {",
+			"logo-wrapper {",
+			".log-out {",
+			".nav_item",
+			".nav_item here",
+			".no_permissions",
+			".clearfix {",
+			"@extend .clear",
+			"@extend clear",
+			"h1, h2, h3, h4, h5, h6 {",
+			"under",
+			"$dark-underline:",
+			".help_us_improve {",
+			"$hui-green-button:",
+			".upgrade_to_family",
+			"any(",
+			".icon-filter-shield:before",
+			".icon-user",
+			".icon-user ",
+			"user",
+			"family",
+			"user",
+			".large",
+			"$large-2",
+			".large-2 {",
+			"@media",
+			"here if fa",
+			"canvas_subnav is false",
+			"canvas is",
+			"canvas",
+			"canvas is false",
+			"{% nav \"Dashboard\" goes to \"account\", here if url|matches:\"/account/\", icon is \"home\", canvas is false %}\n\n        {% nav \"My Profile\" goes to \"profile\", here if url|matches:\"/account/profile\", icon is \"user-2\", canvas is false subnav is \"users/subnav.html\" %}\n\n        {% only reports %}\n            {% nav \"Reports\" goes to \"generate-report\", here if url|matches:\"/reports/\", icon is \"checklist-check\", canvas is false %}\n        {% endonly %}\n\n        {% only admin %}\n            {% if url|matches:\".*/guardians/invite\"%}\n                {% nav \"Manage Users\" goes to \"users-list\", here if false, icon is \"family\", canvas is false subnav is \"users/subnav_manage_users.html\" %}\n            {% else %}\n                {% nav \"Manage Users\" goes to \"users-list\", here if url|matches:\"/account/users/\", icon is \"family\", canvas is false subnav is \"users/subnav_manage_users.html\" %}\n            {% endif %}\n        {% endonly %}\n\n        {% if not user.access.admin and user.account.has_services %}\n        <li>\n            <ul class=\"no_permissions\">\n                {% nav \"Manage Users\" goes to \"no_permission_to_manage_users\", here if url|matches:\"/account/manage-users/\", icon is \"family\", canvas is false %}\n            </ul>\n        </li>\n        {% endif %}\n\n        {% if user.account.is_active %}\n            {% only billing %}\n                {% nav \"Billing\" goes to \"billing-details\", here if url|matches:\"/billing\", icon is \"credit\", canvas is false subnav is \"billing/subnav.html\" %}\n            {% endonly %}\n        {% endif %}\n\n        {% if not user.access.billing and user.account.has_services %}\n        <li>\n            <ul class=\"no_permissions\">\n                {% nav \"Billing\" goes to \"no_permission_to_manage_billing\", here if url|matches:\"/billing\", icon is \"credit\", canvas is false %}\n            </ul>\n        </li>\n        {% endif %}\n\n        {% only accountability partners %}\n            {% nav \"My Partners\" goes to \"partners\", here if url|matches:\"/partners/$\", icon is \"group\", canvas is false %}\n        {% endonly %}\n\n        {% only can_access_guardian_list %}\n            {% nav \"My Guardians\" goes to \"guardians\", here if url|matches:\"/guardians/$\", icon is \"group\", canvas is false %}\n        {% endonly %}\n\n        {% only filter_guardian %}\n            {% nav \"Filter Settings\" goes to \"filter-users\", here if url|matches:\"/filter/\", icon is \"group\", canvas is false subnav is \"filter/subnav.html\" %}\n        {% endonly %}\n\n        {% comment %}\n        Since filter users don't have access to the filter area,\n        this is how they request rating changes\n        {% endcomment %}\n\n        {% only ~reports %}\n        {% only ~filter_guardian %}\n        {% only filtering %}\n            {% nav \"Filter Settings\" goes to \"request-rating-change-filter\", here if url|matches:\"/filter/\", icon is \"group\", canvas is false subnav is \"filter/subnav.html\" %}\n        {% endonly %}\n        {% endonly %}\n        {% endonly %}\n\n        {% only downloads %}\n            {% nav \"Downloads\" goes to \"downloads\", here if url|matches:\"/downloads/$\", icon is \"download\", canvas is false %}\n        {% endonly %}\n\n        {% if not user.access.downloads %}\n        <li>\n            <ul class=\"no_permissions\">\n                {% nav \"Downloads\" goes to \"no_permission_to_download\", here if url|matches:\"/downloads/download-covenant-eyes/\", icon is \"download\", canvas is false %}\n            </ul>\n        </li>\n        {% endif %}\n\n        {% only uninstall %}\n            {% nav \"Uninstall\" goes to \"uninstall-form\", here if url|matches:\"/downloads/uninstall$\", icon is \"remove\", canvas is false %}\n        {% endonly %}\n\n        {% if not user.access.uninstall and user.account.has_services and not user.access.partner_only %}\n        <li>\n            <ul class=\"no_permissions\">\n                {% nav \"Uninstall\" goes to \"no_permission_to_get_uninstall_code\", here if url|matches:\"/downloads/get-uninstall-code/\", icon is \"remove\", canvas is false %}\n            </ul>\n        </li>\n        {% endif %}\n\n        {% only admin %}\n            {% if not user.access.partner_only %}\n                {% nav \"Cancel\" goes to \"cancel\", here if url|matches:\"/account/cancel$\", icon is \"cancel-circle\", canvas is false %}\n            {% endif %}\n        {% endonly %}",
+			"if template",
+			"is_here",
+			"def is_here",
+			"timezone",
+			"input[type=text]",
+			".new_partner",
+			".add_a_user",
+			".familial_roles_link",
+			".familial_role_errors",
+			".user_info",
+			".erring",
+			"timezo",
+			"def refresh_user()",
+			"assertFieldValue",
+			"self.url(",
+			"assertFieldValue",
+			"time_zone_adjustment",
+			"timecon",
+			" timecontrol",
+			"timecontrol",
+			"def timecontrol",
+			"timecontrol",
+			"class timecontrol",
+			"def timecontrol",
+			"timez",
+			"class BetterForm",
+			"class PrefixForm",
+			"class TimezoneField",
+			"timezone(",
+			"skip_to_shut_off_reports",
+			"timecontrol",
+			"time_zone_adjustment",
+			".timezone()",
+			" timezone()",
+			"timezone()",
+			"timezone",
+			"def property",
+			"setter",
+			"self.timecontrol",
+			"def info_form_class",
+			"class info_form_class"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 3880,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2400,
+								2400
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 890.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "footer.php",
+					"settings":
+					{
+						"buffer_size": 1297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "page.php",
+					"settings":
+					{
+						"buffer_size": 2400,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								554,
+								531
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 121.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "sass/style.scss",
+					"settings":
+					{
+						"buffer_size": 462,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								297,
+								297
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "sass/sections/_footer.scss",
+					"settings":
+					{
+						"buffer_size": 1582,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								429,
+								429
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "sass/base/_layout.scss",
+					"settings":
+					{
+						"buffer_size": 216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								79,
+								52
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "js/script.js",
+					"settings":
+					{
+						"buffer_size": 1386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								627,
+								627
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "sass/base/_base.scss",
+					"settings":
+					{
+						"buffer_size": 415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "sass/sections/_nav.scss",
+					"settings":
+					{
+						"buffer_size": 5426,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3379,
+								3379
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "sass/presentation/_colors.scss",
+					"settings":
+					{
+						"buffer_size": 950,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31,
+								31
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "sass/presentation/_borders.scss",
+					"settings":
+					{
+						"buffer_size": 78,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								40
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "sass/pages/_homepage.scss",
+					"settings":
+					{
+						"buffer_size": 5854,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3394,
+								3394
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "header.php",
+					"settings":
+					{
+						"buffer_size": 2639,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"cupcake/.coveragerc"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/shanedenham/code/twd_project/twd_project/twd.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true
+}
